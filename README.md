@@ -63,3 +63,5 @@ Save this document as a reference for future use, and keep your MongoDB Compass 
 
 ### Part 6: Completion
 Submit your database's connection string, excluding the actual password, according to the submission instructions at the beginning of this document. We do not want access to your database; we just want to verify you finished setting it up!
+
+### My mongoDB url: "mongodb+srv://naspor0:6HivhN@cluster0.da2gegj.mongodb.net/HelpBostonians?retryWrites=true&w=majority"
